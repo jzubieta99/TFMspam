@@ -61,9 +61,4 @@ Para cada modelo, todo el proceso de ejecución se define en instructor/oracle_d
 
 
 
-  
-
-## Licence
-
-**MIT lincense**
 
