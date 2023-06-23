@@ -38,9 +38,6 @@ Para instalarlos ejecutar `pip install -r requirements.txt`. En caso de problema
 cd run
 python3 run_leakgan.py 0 0	# El primer 0 es job_id, el segundo 0 es gpu_id
 
-# Por ejemplo
-python3 run_seqgan.py 0 0
-```
 
 ## Features
 
