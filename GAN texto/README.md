@@ -31,20 +31,6 @@ Para instalarlos ejecutar `pip install -r requirements.txt`. En caso de problema
 
 - `pip install https://github.com/kpu/kenlm/archive/master.zip`/
 
-
-### Category Text Generation
-
-- **SentiGAN** - [SentiGAN: Generating Sentimental Texts via Mixture Adversarial Networks](https://www.ijcai.org/proceedings/2018/618)
-- **CatGAN** (ours) - [CatGAN: Category-aware Generative Adversarial Networks with Hierarchical Evolutionary Learning for Category Text Generation](https://arxiv.org/abs/1911.06641)
-
-## Get Started
-
-- Get Started
-
-```bash
-
-```
-
 - Para más experimentos (`Image COCO`, `EMNLP NEWs`, `Movie Review`, `Amazon Review`) can be downloaded from [here](https://drive.google.com/drive/folders/1XvT3GqbK1wh3XhTgqBLWUtH_mLzGnKZP?usp=sharing). 
 - Ejecutar solo con un modelo
 
